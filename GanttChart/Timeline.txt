@@ -1,0 +1,9 @@
+Hotel Guan Update,04-16-2018,04-20-2018,Guan
+Box Quote / Ship,04-24-2018,05-08-2018,None
+Begin Assembly,05-08-2018,05-11-2018,Wilkins
+Board Design,04-18-2018,04-25-2018,Wilkins
+Board Layout,04-25-2018,05-09-2018,Juppe
+Board Quote / Fab,05-09-2018,05-30-2018,None
+Board Debug,05-30-2018,06-06-2018,Silveira
+Finish Assembly,06-06-2018,06-08-2018,Wilkins
+Dubg/Testing,06-11-2018,06-14-2018,Boschen
